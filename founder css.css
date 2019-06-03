@@ -1,0 +1,131 @@
+body{
+    margin: 0%;
+    padding: 0%;
+background: rgb(168, 231, 233);
+}
+h1{position: absolute;
+    right: 40%;
+    color: rgb(31, 105, 170);
+    border-bottom-style: solid;
+    border-bottom-width: thin;
+}
+
+.rphoto{margin-top: 10%;
+    margin-left: 1%;
+    border: 1px solid rgb(27, 27, 27);
+}
+.Founder-pos{ position: absolute;
+    left: 10%;
+    top:20%;
+    font-size: 150%;
+    border-bottom-width: thin;
+    border-bottom-style: solid;
+
+}
+.about-founder{
+    position: absolute;
+    left: 10%;
+    top:25%;
+    font-size: 140%;
+    color: rgb(52, 81, 107);
+}
+.btn-free{
+    border: 2px solid rgb(24, 26, 25);
+    border-radius: 2px;
+    position: absolute;
+    left: 10%;
+    top:50%;
+    background: rgb(6, 126, 224);
+    color: aliceblue;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.btn-free:hover{
+    border: 1px solid rgb(221, 228, 224);
+    border-radius: 20px;
+    transition: .3s;
+    opacity: .5;
+}
+.contect-r{
+    color: rgb(46, 45, 45);
+
+}
+.Privecy-policy{
+    position: absolute;
+    left: 10%;
+    top:80%;
+    font-size: 150%;
+    border-bottom-width: thin;
+    border-bottom-style: solid;
+}
+.center-policy2{
+    position: absolute;
+    left: 10%;
+    top:90%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.center-policy3{
+    position: absolute;
+    left: 10%;
+    top:95%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.center-policy5{
+    position: absolute;
+    left: 40%;
+    top:105%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+.center-policy6{
+    position: absolute;
+    left: 40%;
+    top:110%;
+margin-bottom: 1%;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+.about-link{
+    position: absolute;
+    left: 10%;
+    top:120%;
+    font-size: 150%;
+    border-bottom-width: thin;
+    border-bottom-style: solid;
+}
+.likecode-description{position: absolute;
+    left: 10%;
+    top:128%; 
+    margin-bottom: 1%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.share-us{
+    position: absolute;
+    left: 10%;
+    top:150%; 
+    font-size: 150%;
+    border-bottom-width: thin;
+    border-bottom-style: solid;
+}
+.icon-png{
+    position: absolute;
+    left: 1%;
+    top:154%; 
+    right: 12%;
+    
+}
+.banner-img{
+    position: absolute;
+    left: 10%;
+    top:220%; 
+    border: 1px solid rgb(48, 117, 78);
+    border-radius: 5px;
+    transition: .3s;
+    opacity: 50; 
+    text-decoration: none;
+    color: rgb(224, 223, 213);
+background: rgb(11, 160, 103);
+}
+.banner-img:hover{
+    border: 1px solid rgb(35, 57, 116);
+    border-radius: 20px;
+    transition: .3s;
+    opacity: .5; 
+}
